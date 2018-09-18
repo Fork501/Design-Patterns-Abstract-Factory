@@ -1,5 +1,4 @@
 ﻿using AbstractFactory.Enums;
-using AbstractFactory.Interfaces;
 
 namespace AbstractFactory.Factories
 {
